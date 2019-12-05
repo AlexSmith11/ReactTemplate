@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Renders 1`] = `
+<div
+  className="app"
+  onClick={[Function]}
+>
+  <span>
+    Click to make number go up: 
+  </span>
+</div>
+`;
+
+exports[`Component renders 1`] = `
+<div
+  className="app"
+  onClick={[Function]}
+>
+  <span>
+    Click to make number go up: 
+  </span>
+</div>
+`;
+
+exports[`Component renders, matching snapshot 1`] = `
+<div
+  className="app"
+  onClick={[Function]}
+>
+  <span>
+    Click to make number go up: 
+  </span>
+</div>
+`;
